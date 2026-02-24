@@ -165,7 +165,7 @@ async def get_payload():
 # ======================================================
 # 4) WEB GATE (no readable hints)
 # ======================================================
-HTML_PAGE = f"""
+HTML_PAGE = """
 <!DOCTYPE html>
 <html lang="en">
 <head>
